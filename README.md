@@ -11,7 +11,7 @@
 - HackerRank: [@shubham_1923en12](https://www.hackerrank.com/HackerRankUserName)
 
 ## Placement Module
-1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
+1. [DS I](https://github.com/Shubh75056/Pre-Placement-Module-2023/tree/main/DS%20I)
     | Weeks | Days | Days | Days | Days | Days | Days | Days |
     | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
     | Week 2 | [Day 1](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%201) | [Day 2](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%202) | [Day 3](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%203) | [Day 4](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%204) | [Day 5](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%205) | [Day 6](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%206) | [Day 7](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%207) |
