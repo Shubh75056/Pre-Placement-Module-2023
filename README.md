@@ -7,7 +7,7 @@
 - Preferred Programming Language: Python
 
 ## Coding Profiles
-- LeetCode: [SHUBHAM_YADAV](https://leetcode.com//)Shubham_123466)
+- LeetCode: [SHUBHAM_YADAV](https://leetcode.com/Shubham_123466)
 - HackerRank: [Shubham_Yadav](https://www.hackerrank.com/HackerRankUserName)
 
 ## Placement Module
