@@ -8,7 +8,7 @@
 
 ## Coding Profiles
 - LeetCode: [SHUBHAM_YADAV](https://leetcode.com/Shubham_123466)
-- HackerRank: [Shubham_Yadav](https://www.hackerrank.com/HackerRankUserName)
+- HackerRank: [SHUBHAM_YADAV](https://www.hackerrank.com/shubham_1923en12)
 
 ## Placement Module
 1. [DS I](https://github.com/Shubh75056/Pre-Placement-Module-2023/tree/main/DS%20I)
