@@ -4,7 +4,7 @@
 - University Roll No.:1900290210156
 - Branch:EN
 - Section:C
-- Preferred Programming Language: Python
+- Preferred Programming Language: C++
 
 ## Coding Profiles
 - LeetCode: [SHUBHAM_YADAV](https://leetcode.com/Shubham_123466)
