@@ -1,0 +1,27 @@
+public class Solution {
+    
+    public int integerBreak(int n) {
+        //special cases
+        if ( n == 3){
+            return 2;
+        } else if ( n == 2){
+            return 1;
+        }
+        int[] memory = new int[n+1];
+        return breakHelper(n,memory);
+    }
+    
+    private int breakHelper(int n, int[] memory){
+        if ( memory[n] != 0 ){
+            return memory[n];
+        } else if ( n == 0 ){
+            return 1;
+        }
+        int maxProd = 1;
+        for( int m = 1; m <= n; ++m ){
+            maxProd = Math.max( maxProd, m * breakHelper(n-m,memory));
+        }
+        memory[n] = maxProd;
+        return maxProd;
+    }
+}
